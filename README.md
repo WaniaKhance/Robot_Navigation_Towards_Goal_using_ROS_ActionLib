@@ -1,7 +1,7 @@
 # Robot Navigation Towards Goal using ROS ActionLib
 
 
-## Server and Client Communication using ROS Actionlib - Intelligent Systems and Robotics
+## Server and Client Communication - Intelligent Systems and Robotics
 
 * Introduction
   ------------
